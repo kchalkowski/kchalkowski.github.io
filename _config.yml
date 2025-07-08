@@ -32,7 +32,7 @@ twitter_username: jekyllrb
 github_username:  kchalkowski
 
 # Build settings
-theme: minima
+theme: jekyll-sleek
 plugins:
   - jekyll-feed
 
