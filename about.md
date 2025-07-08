@@ -3,4 +3,4 @@ layout: page
 title: about
 ---
 
-Adding text to home page
+This is my about page!
