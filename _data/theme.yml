@@ -8,6 +8,7 @@ t:
   skip_content: "Skip to content"
   skip_footer: "Skip to footer"
   menu: "Menu"
+  subscribe: ""
   search: "Search"
   site_search: "Site Search"
   results_found: "Result(s) found"
