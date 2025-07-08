@@ -51,3 +51,5 @@ google_fonts:
 navigation_pages:
   - about.md
   - index.md
+  - research.md
+  - CV.md
