@@ -10,7 +10,7 @@ url: "https://kchalkowski.github.io/" # the base hostname & protocol for your si
 # BUILD SETTINGS
 markdown: kramdown
 highlighter: rouge # or pygments or null
-theme: jekyll-theme-basically-basic
+remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 exclude:
   - README.md
   - node_modules
