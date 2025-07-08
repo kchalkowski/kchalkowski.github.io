@@ -3,4 +3,4 @@ layout: home
 title: home
 ---
 
-"Adding text to home page"
+Adding text to home page
