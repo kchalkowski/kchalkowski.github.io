@@ -24,7 +24,6 @@ github_username: kchalkowski
 markdown: kramdown
 #theme: jekyll-theme-basically-basic
 plugins: # previsously gems
-  - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
