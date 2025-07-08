@@ -1,6 +1,6 @@
 ---
-layout: home
-title: home
+layout: page
+title: about
 ---
 
 Adding text to home page
