@@ -84,7 +84,7 @@
 
   .entry-excerpt {
     @include breakpoint($xlarge) {
-      width: span(11 of 16);
+      width: span(16 of 16);
     }
 
     /* normalize font sizes */
