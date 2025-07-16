@@ -1,7 +1,9 @@
 ---
 title: "About"
 layout: post
-image: sleek.jpg
+author:
+  name: Kayleigh Chalkowski
+  picture: /assets/about_img.jpg
 ---
 
 This is my about page
