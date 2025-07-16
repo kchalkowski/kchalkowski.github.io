@@ -32,8 +32,8 @@ main {
     }
 
     @include breakpoint($medium) {
-      padding-right: 2rem;
-      padding-left: 2rem;
+      padding-right: 1rem;
+      padding-left: 1rem;
     }
 
     @include breakpoint($large) {
@@ -57,7 +57,7 @@ main {
 }
 
 .inner {
-  max-width: $large;
+  max-width: $xlarge;
 }
 
 /*
@@ -67,7 +67,7 @@ main {
 .layout--post,
 .layout--page {
   .entry-content {
-    @include breakpoint($large) {
+    @include breakpoint($xlarge) {
       width: span(14 of 16);
     }
   }
@@ -107,7 +107,7 @@ main {
       border-radius: 2 * $border-radius;
 
       @include breakpoint($medium) {
-        margin: 0 0 0 2rem;
+        margin: 0 0 0 1rem;
       }
     }
   }
