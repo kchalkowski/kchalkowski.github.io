@@ -1,6 +1,6 @@
 ---
 title: "About"
-layout: post
+layout: about
 author:
   name: Kayleigh Chalkowski
   picture: /assets/about_img.jpg
