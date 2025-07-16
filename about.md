@@ -4,7 +4,7 @@ layout: about
 author:
   name: Kayleigh Chalkowski
   picture: /assets/author_img2.jpg
-excerpt_separator: <!--more-->
+excerpt_separator: "<!--more-->"
 ---
 
 I am a quantitative landscape ecologist studying how animal movement and landscape structure shape disease dynamics and population-level outcomes. I use geospatial analysis, machine learning, and agent-based modeling to explore questions at the intersection of ecology, animal health, and wildlife management. My work spans systems from free-roaming domestic dogs (Canis lupus familiaris) in Madagascar to invasive wild pigs in the U.S. (Sus scrofus). I am also interested in developing decision support tools and generalizable methods to scale-up ecological insights from empirical data.    
