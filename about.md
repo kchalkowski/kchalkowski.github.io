@@ -2,8 +2,8 @@
 title: "About"
 layout: about
 author:
-  name: Kayleigh Chalkowski
-  picture: /assets/author_img2.jpg
+  name: 
+  picture: 
 show_excerpts: false
 ---
 
